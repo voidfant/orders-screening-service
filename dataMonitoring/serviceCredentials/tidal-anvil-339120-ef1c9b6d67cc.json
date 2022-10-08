@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tidal-anvil-339120",
+  "private_key_id": "ef1c9b6d67cc324a2cbdfc932da116783124766e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQCT92v9LLF+q1\n0y7DWOPYMRq0KnOZ7JYqgFVTTB4WhFudej8lNRAT1oKj/nWNEUwwr+Ps7/5MYfRT\nAzGT5bvJTQ5TyCpFZ80tSpSNqDTSQY4gwBQD7PunByKyLLIAfcV/CrKXI+OmLPz+\n1Y6bj4ctDtDzqE7r+kS+6EqIWxPfoPsLr7RVTeFgv8b7putPurE1QZ1DJ8qmCK1I\neD3yjuuLEZgPf0NMVChzrMNADuY0B0u4bJSgGNWNeKwQiWsMM0d8jeUXqOgOonTE\n/x/5yuyef0ZqoLMWiGZruOrAIlE0zpXj5psu0a7+BeXhMgmGJyWHPUYh5krn3esu\nWE5Q9CK/AgMBAAECggEAI0F19mdyz0VZ2v+TnLp7Pn+v4VmSZsMP/drq2ud67+D1\nb74wZltUQrBnSmiMvl/wlA2y6EwRwhsVn13asJBN30MGSw+QjluVi3forgsUDI/c\niNNUcQff7AILELv/XJLz/eAvvOpxoY9dPsitVtKfm3S315st6NLshJf0TaB1wT+G\nEO4Smp83pCzjx/ML24B0PEcmHygz1sAlPqzy1bP4rrB6GCOHyMhue9hfaxjNgBHw\nftjt77hrJ5INXmePeF77ID6sEjV682WllEWpcsuJ8OhleYr+b8vF1D9lSQfteLlx\n74hzCwXGB1wuupfQIc6+NDjTCPpNvSrdR8XgiVi7XQKBgQDxATBzVM13m8+pVjyU\nl1JoiLiT9VTSE7xrcwet9tdkt/FXlF5vdiqaCjPzqFzaiwODFeB6cmpB1yQ4KEpY\nrJkFjFxnovMY/a67voXCkI7GYPSm2EzYCM7TK10VJswM1w4Hs3YwqcfEKGlp8Hkf\nHpbn+7KqKET7T4/maLpSItRZfQKBgQDc+uyFBEkuKmPQaSgBrYhFbh6nRGOtHquL\nTvDm9RJSUGiBd2/7QXEJ0xOp0KVXzrDQt/8i13T0umS0QEY4U3272o3vQRzQTVza\nNP57ibBk+JS4xCNt05nAnMs4e7mTeATh1isL8q2gLH3iQED+vjWquFxU018efQ7L\nfZhalgaB6wKBgHO2aHbXXpdw/fGF8Cw/w1dhXY3cms8KnsrQPf2uqJg5IO011Wma\nyLWQ9ISmb36WhCcqF89yo8Xc8Azue1O7+vSJAczYlfOHyZ9myH40PfjNkGmTLMIE\n6JjHFzgSmqIHlzrnVXXj7oAmDwbIaL8iRr43QP8luokXGDY+TkclZeNZAoGBAKnF\npdzz0/1B1/mQMIpJdf5Rgf9kDWg9vfGDLpViBzdySzfcOQ5B0sSHg/3dLIpvY2yX\nT87G1TYH1cKd9tTjYB/o407DKY3nQcTrHfBvcjPAvxHMrqN8BA306DR26bYgaS/Q\nSLYfNcFvLS+bydNs8vI8PcN1uQhFcA5qaZh+1nUNAoGAW1mhJZzmhV/2dkMmBQ51\n00yrzzlQ7okKsEmdcM01cV1QTgqEk2/Yi46RlpZvIi8D8KCZ8NSPcA3ai+1DsyUp\n4N2+xcNyQ8rQdBR2/q25fcpAmOBfi+ZBCIq1CwYQwQyV7uvLEza808Rn4JMPQHZq\nmVBThukU4OkY4wTBEgT+xnc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gogolithubservice@tidal-anvil-339120.iam.gserviceaccount.com",
+  "client_id": "108071510410302125557",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gogolithubservice%40tidal-anvil-339120.iam.gserviceaccount.com"
+}
